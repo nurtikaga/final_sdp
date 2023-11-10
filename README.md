@@ -45,5 +45,8 @@ Additional validation strategies can be added by creating new classes that imple
 
 Implement a more sophisticated user interface with graphical elements.
 Extend the game with multiple levels, scoring, or additional game mechanics.
+
+
+
 Conclusion
 The "Guess the Number" game demonstrates the effective use of design patterns to achieve a well-organized, flexible, and maintainable software structure. By employing these patterns, the program allows for easy extension, modification, and adaptation to changing requirements.
